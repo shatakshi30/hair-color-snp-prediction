@@ -97,7 +97,7 @@ This project explores the use of informative **single nucleotide polymorphisms (
 
 ---
 
-## 📚 Learnings
+## Learnings
 
 - Gained hands-on experience with **SNP data analysis**.
 - Applied **PCA**, **clustering**, and **classification models** on real genetic data.
